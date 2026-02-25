@@ -1,0 +1,275 @@
+body{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    
+}
+.menu{
+    background-color: rgb(0, 0, 66);
+    padding: 35px;
+    position: relative;
+    
+}
+
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+    align-items: center;
+    font-size: 35px;
+    
+}
+.menu h1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin: 0;
+    font-size: 35px;
+}
+    
+
+.menu a:hover{
+    color: lightblue;
+}
+h2{
+    position: absolute;
+    left: 20%;
+    font-size: 45pt;
+    color: rgb(0, 0, 66);
+
+}
+b{
+    color: rgb(0, 0, 66);
+}
+.bio{
+    position: absolute;
+    left: 20%;
+    margin-top: 155px;
+    text-align: left;
+    font-size: 18pt;
+    margin-right: 20%;
+}
+h3{
+    position: absolute;
+    left: 20%;
+    margin-top: 450px;
+    font-size: 45pt;
+    color: rgb(0, 0, 66);
+}
+.eii{
+    display: flex;
+    justify-content: center;
+    margin-top: 575px;
+    
+}
+.eii img{
+    border: 4px solid rgb(0, 0, 66);
+    border-radius: 15px;
+}
+h4{
+    position: absolute;
+    left: 20%;
+    font-size: 45pt;
+    margin-top: 100px;
+    color: rgb(0, 0, 66);
+}
+.parte1{
+    position: absolute;
+    left: 20%;
+    margin-top: 155px;
+    text-align: left;
+    font-size: 18pt;
+    margin-right: 20%;
+    text-indent: 65px;
+}
+.parte2{
+   position: absolute;
+    left: 20%;
+    margin-top: 320px;
+    text-align: left;
+    font-size: 18pt;
+    margin-right: 20%;
+    text-indent: 65px; 
+}
+.parte3{
+    position: absolute;
+    left: 20%;
+    margin-top: 440px;
+    text-align: left;
+    font-size: 18pt;
+    margin-right: 20%;
+    text-indent: 65px;
+}
+.parte4{
+    position: absolute;
+    left: 20%;
+    margin-top: 540px;
+    text-align: left;
+    font-size: 18pt;
+    margin-right: 20%;
+    text-indent: 65px;
+}
+.parte5{
+    position: absolute;
+    left: 20%;
+    margin-top: 660px;
+    text-align: left;
+    font-size: 18pt;
+    margin-right: 20%;
+    text-indent: 65px;
+}
+.tempos{
+    display: flex;
+    justify-content: center;
+    margin-top: 850px;
+}
+.tempos img{
+    border: 4px solid rgb(0, 0, 66);
+    border-radius: 15px;
+}
+h7{
+    position: absolute;
+    left: 20%;
+    margin-top: 100px;
+    font-size: 45pt;
+    color: rgb(0, 0, 66); 
+}
+.rat{
+    display: flex;
+    justify-content: center;
+    margin-top: 255px;
+}
+.rat img{
+    border: 4px solid rgb(0, 0, 66);
+    border-radius: 15px;
+}
+.listas-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 110px;
+
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+.lista, .lista2{
+    color: rgb(0, 0, 66);
+}
+
+.lista h8, .lista2 h9{
+    font-size: 30pt;
+}
+
+.lista li, .lista2 li{
+    font-size: 27px;
+    margin-bottom: 8px;
+}   
+.patri{
+    display: flex;
+    justify-content: center;
+
+}
+.patri h1{
+    position: absolute;
+    left: 20%;
+    font-size: 45pt;
+}
+.patri img{
+    margin-top: 175px;
+    border: 4px solid rgb(0, 0, 66);
+    border-radius: 15px;
+}
+.pp {
+    position: absolute;
+    left: 20%;
+    margin-top: 80px;
+    text-align: left;
+    font-size: 18pt;
+    margin-right: 20%;
+    text-indent: 65px;
+}
+.ppp{
+    position: absolute;
+    left: 20%;
+    margin-top: 205px;
+    text-align: left;
+    font-size: 18pt;
+    margin-right: 20%;
+    text-indent: 65px;
+}
+.baixo{
+    margin-top: 350px;
+}
+.kings{
+    display: flex;
+    justify-content: center;
+}
+.kings img{
+    border: 4px solid rgb(0, 0, 66);
+    border-radius: 15px;
+    margin-top: 450px;
+}
+.kings p{
+    position: absolute;
+    left: 20%;
+    margin-top: 1000px;
+    text-align: left;
+    font-size: 18pt;
+    margin-right: 20%;
+    text-indent: 65px;
+}
+.kings a{
+    color: rgb(0, 0, 66);
+}
+.kings a:hover{
+    color: lightblue;
+}
+.map {
+    display: flex;
+    justify-content: center;
+}
+.map iframe {
+    margin-top: 150px;
+}
+.ttk{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 110px;
+
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.ttk h11{
+    position: absolute;
+    left: 20%;
+    font-size: 45pt;
+    color: rgb(0, 0, 66);
+    margin-top: 15px;
+}
+.ttk blockquote{
+    margin-top: 200px;
+}
+
+
+
+
+table{
+    width: 60%;
+    margin: 50px auto;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 2px solid rgb(0,0,66);
+    padding: 15px;
+    text-align: center;
+}
+
+th{
+    background-color: rgb(0,0,66);
+    color: white;
+}
